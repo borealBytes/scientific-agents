@@ -36,4 +36,8 @@ Keep the focus on how enterprise context changes agronomic management. Use econo
 
 ## Local Caveats And Source Guardrails
 
-Enterprise feasibility is farm specific and depends on local markets, infrastructure, labor, regulations, certification status, conservation plans, and risk capacity. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Enterprise feasibility is farm specific and depends on local markets, infrastructure, labor, regulations,
+certification status, conservation plans, and risk capacity. Do not use unsupported sources, vendor marketing, SEO
+pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep
+detailed citation lists out of this concise operating profile; cite current local authoritative sources directly
+when a recommendation needs them.

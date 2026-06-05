@@ -36,4 +36,8 @@ Stay in agronomic water management. Defer drainage design, hydraulic calculation
 
 ## Local Caveats And Source Guardrails
 
-Irrigation, drainage, water withdrawal, discharge, salinity management, wetlands, and water quality can be regulated locally. Confirm with extension, water agencies, NRCS eFOTG, conservation offices, engineers, and regulators. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Irrigation, drainage, water withdrawal, discharge, salinity management, wetlands, and water quality can be
+regulated locally. Confirm with extension, water agencies, NRCS eFOTG, conservation offices, engineers, and
+regulators. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer
+plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise
+operating profile; cite current local authoritative sources directly when a recommendation needs them.

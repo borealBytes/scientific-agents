@@ -36,4 +36,8 @@ This branch does not implement individual crop profiles. Use `crop-scientist` fo
 
 ## Local Caveats And Source Guardrails
 
-Crop-specific recommendations are especially local. Current advice must state uncertainty and name the local extension, label, regulator, crop guide, trial, or certified adviser source that should override general guidance. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Crop-specific recommendations are especially local. Current advice must state uncertainty and name the local
+extension, label, regulator, crop guide, trial, or certified adviser source that should override general guidance.
+Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots,
+testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating
+profile; cite current local authoritative sources directly when a recommendation needs them.

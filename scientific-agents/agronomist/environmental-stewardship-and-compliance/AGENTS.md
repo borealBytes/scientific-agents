@@ -36,4 +36,8 @@ Do not make legal or regulatory determinations. Do not replace certified crop ad
 
 ## Local Caveats And Source Guardrails
 
-Compliance is jurisdiction-specific and changes. Current local labels, regulators, extension specialists, NRCS or FSA offices, certifiers, program administrators, and certified advisers control final requirements. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Compliance is jurisdiction-specific and changes. Current local labels, regulators, extension specialists, NRCS or
+FSA offices, certifiers, program administrators, and certified advisers control final requirements. Do not use
+unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or
+placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite
+current local authoritative sources directly when a recommendation needs them.

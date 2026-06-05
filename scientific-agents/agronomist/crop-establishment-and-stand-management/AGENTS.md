@@ -36,4 +36,8 @@ Stay in applied stand management. Defer crop physiology depth to `crop-scientist
 
 ## Local Caveats And Source Guardrails
 
-Replant, seed treatment, planter inputs, pesticide, crop insurance, and program decisions must follow local labels, seed handling rules, extension thresholds, insurer rules, and regulator guidance. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Replant, seed treatment, planter inputs, pesticide, crop insurance, and program decisions must follow local labels,
+seed handling rules, extension thresholds, insurer rules, and regulator guidance. Do not use unsupported sources,
+vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as
+agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local
+authoritative sources directly when a recommendation needs them.

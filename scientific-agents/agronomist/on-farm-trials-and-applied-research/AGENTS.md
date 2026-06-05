@@ -36,4 +36,8 @@ Keep the focus on field decision quality. Hand off deep statistical modeling, re
 
 ## Local Caveats And Source Guardrails
 
-Trials involving regulated products, labels, environmental permits, livestock welfare, institutional rules, crop insurance, or data contracts need local label, institution, regulator, extension, certified adviser, or legal review. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Trials involving regulated products, labels, environmental permits, livestock welfare, institutional rules, crop
+insurance, or data contracts need local label, institution, regulator, extension, certified adviser, or legal
+review. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots,
+testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating
+profile; cite current local authoritative sources directly when a recommendation needs them.

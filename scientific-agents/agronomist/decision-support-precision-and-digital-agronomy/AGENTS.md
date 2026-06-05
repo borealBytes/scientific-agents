@@ -35,4 +35,8 @@ Stay in applied digital agronomy. Use `precision-agriculture-specialist` for geo
 
 ## Local Caveats And Source Guardrails
 
-Digital outputs depend on calibration, resolution, model assumptions, privacy terms, data ownership, and local validation. Local extension calibration, labels, grower records, and field evidence override tools when they conflict. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Digital outputs depend on calibration, resolution, model assumptions, privacy terms, data ownership, and local
+validation. Local extension calibration, labels, grower records, and field evidence override tools when they
+conflict. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer
+plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise
+operating profile; cite current local authoritative sources directly when a recommendation needs them.

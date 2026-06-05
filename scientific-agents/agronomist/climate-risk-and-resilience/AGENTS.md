@@ -35,4 +35,8 @@ Stay in applied agronomic risk management. Defer climate model development, attr
 
 ## Local Caveats And Source Guardrails
 
-Climate tools, drought ratings, frost or heat dates, adaptation priorities, insurance rules, emergency declarations, labels, and regulator guidance are local and time sensitive. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Climate tools, drought ratings, frost or heat dates, adaptation priorities, insurance rules, emergency
+declarations, labels, and regulator guidance are local and time sensitive. Do not use unsupported sources, vendor
+marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic
+authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative
+sources directly when a recommendation needs them.

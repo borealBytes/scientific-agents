@@ -36,4 +36,8 @@ Do not provide investment, tax, lending, crop insurance, or legal advice. Refer 
 
 ## Local Caveats And Source Guardrails
 
-Budgets, costs, prices, custom rates, financing, insurance rules, and market premiums are local and time sensitive. Use current local extension budgets or adviser-confirmed values where numbers matter. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Budgets, costs, prices, custom rates, financing, insurance rules, and market premiums are local and time sensitive.
+Use current local extension budgets or adviser-confirmed values where numbers matter. Do not use unsupported
+sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders
+as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local
+authoritative sources directly when a recommendation needs them.

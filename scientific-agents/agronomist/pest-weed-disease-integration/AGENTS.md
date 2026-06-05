@@ -36,4 +36,8 @@ Use this profile for integrated agronomic decision support. Defer insect biology
 
 ## Local Caveats And Source Guardrails
 
-Pesticide use is controlled by labels, registrations, restricted-use rules, preharvest intervals, worker safety, environmental buffers, and regulators. Labels and local authorities override general advice. Do not use unsupported sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local authoritative sources directly when a recommendation needs them.
+Pesticide use is controlled by labels, registrations, restricted-use rules, preharvest intervals, worker safety,
+environmental buffers, and regulators. Labels and local authorities override general advice. Do not use unsupported
+sources, vendor marketing, SEO pages, anonymous advice, AI summaries, dealer plots, testimonials, or placeholders
+as agronomic authority. Keep detailed citation lists out of this concise operating profile; cite current local
+authoritative sources directly when a recommendation needs them.

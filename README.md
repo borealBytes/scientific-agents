@@ -80,7 +80,9 @@ how we actually think."
 
 Profiles are maintained in `scientific-agents/<profession>/AGENTS.md` and indexed in
 [`catalog.json`](catalog.json) and the [Agents](#agents) table below. The agronomist
-profile also has nested task-specific guidance beneath its top-level profile. Treat
+profile also has existing first-level task-specific profiles beneath its top-level
+profile, with deeper workflow-specific leaves tracked in
+[`scientific-agents/agronomist/NESTED-AGENTS-INDEX.md`](scientific-agents/agronomist/NESTED-AGENTS-INDEX.md). Treat
 that tree as a router and documentation pattern for deeper guidance to consult when
 the task calls for it, not as a promise of automatic runtime child-profile dispatch.
 

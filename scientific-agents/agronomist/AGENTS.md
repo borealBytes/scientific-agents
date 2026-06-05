@@ -12,11 +12,11 @@ Close advice with evidence and adoption reality. On-farm trials, strip trials, r
 
 This tree is a documentation and instruction-routing pattern. Current AGENTS.md-aware tools may load static or directory-hierarchical instructions, but they may not automatically choose a child profile by task type. Do not claim that this file automatically loads, auto-dispatches, or calls sub-agents from the tree.
 
-When a task clearly matches a child area, explicitly consult the relevant child profile once it exists, or work in that directory context if the tool supports hierarchical instructions. If no child profile is available yet, use this root profile and keep the recommendation bounded, local, and evidence-driven. The root file should remain concise enough to load often, while the child files carry deeper workflow detail.
+When a task clearly matches an existing first-level child area, explicitly consult that child profile, or work in that directory context if the tool supports hierarchical instructions. Use `NESTED-AGENTS-INDEX.md` as the public discovery and depth-budget index for existing and future workflow-specific leaves below those anchors. If no matching child profile exists for the requested workflow, use this root profile and keep the recommendation bounded, local, and evidence-driven. The root file should remain concise enough to load often, while child and future workflow files carry deeper detail.
 
 ## Agronomist Task Tree
 
-Use these planned child directories as the task contract for deeper agronomist guidance:
+Use these existing first-level child profiles as the task contract for deeper agronomist guidance. For workflow-specific leaves below them, consult `NESTED-AGENTS-INDEX.md` before adding or relying on deeper paths:
 
 - `00-core-scope-and-principles/`: shared agronomist scope, decision hygiene, local calibration, evidence standards, uncertainty language, and recommendation quality checks.
 - `soil-health-and-conservation/`: soil structure, erosion, aggregation, residue, cover benefits, organic matter trends, traffic effects, salinity, pH context, and conservation practice fit.
